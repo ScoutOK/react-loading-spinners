@@ -1,0 +1,28 @@
+{
+  "name": "react-loading-spinners",
+  "version": "1.0.0",
+  "description": "NPM module to add configurable loading spinners to you React project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoutOK/react-loading-spinners.git"
+  },
+  "keywords": [
+    "react",
+    "loading",
+    "spinner"
+  ],
+  "author": "Scout O'Keefe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScoutOK/react-loading-spinners/issues"
+  },
+  "homepage": "https://github.com/ScoutOK/react-loading-spinners#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
